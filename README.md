@@ -6,7 +6,9 @@ Reg no : 212223110062
 ## Sequence diadram
 ![ATM SEQUENCE](https://github.com/user-attachments/assets/c0a5f14d-ee33-4771-8fd5-7ef36255a7a6)
 
-## Activity daigram![Uploading image.png…]()
+## Activity daigram
+![image](https://github.com/user-attachments/assets/ce15050c-f9a5-4915-bd5b-b870458f8ca2)
+
 
 
 ## Use Case daigram
