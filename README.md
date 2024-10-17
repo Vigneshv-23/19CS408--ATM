@@ -15,7 +15,8 @@ Reg no : 212223110062
 ![ATM USE CASE](https://github.com/user-attachments/assets/e3811342-34de-428e-a692-b5f02be59aac)
 
 ## Class daigram
-![ATM CLASS](https://github.com/user-attachments/assets/b123ce3c-8f53-4ba3-a30a-899ab680eb0a)
+![image](https://github.com/user-attachments/assets/d56ff0fb-9c20-4b5b-af2d-56ffa7101318)
+
 
 ## Package daigram
 ![image](https://github.com/user-attachments/assets/053088f3-7920-4826-b02b-fb1f4c944d96)
