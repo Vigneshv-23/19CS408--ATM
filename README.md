@@ -4,7 +4,7 @@
 ## Reg no : 212223110062
 
 ## Sequence diagram
-![ATM SEQUENCE](https://github.com/user-attachments/assets/c0a5f14d-ee33-4771-8fd5-7ef36255a7a6)
+![image](https://github.com/user-attachments/assets/9570e192-face-4586-bdf4-63ba56cc7c2f)
 
 ## Activity daigram
 ![image](https://github.com/user-attachments/assets/ce15050c-f9a5-4915-bd5b-b870458f8ca2)
