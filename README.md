@@ -1,8 +1,6 @@
-# 19CS408--ATM
 
-## Name : VIGNESH V
-## Reg no : 212223110062
-
+## Aim :
+To create UML Diagrams for ATM & Banking systems using StarUML.
 ## Sequence diagram
 ![image](https://github.com/user-attachments/assets/9570e192-face-4586-bdf4-63ba56cc7c2f)
 
